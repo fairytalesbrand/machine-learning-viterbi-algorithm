@@ -1,7 +1,3 @@
-# machine-learning-viterbi-algorithm
-<p align="center">
-  <img src="" alt="Machine Learning Viterbi algorithm Logo" width="250">
-</p>
 
 <h1 align="center"> Machine Learning Viterbi algorithm </h>
 
@@ -15,3 +11,8 @@
 - [Overview](#overview)
 - [Integrated-development-environment](#integrated-development-environment)
 - [Configuration](#configuration)
+- [Credentials](#credentials)
+
+<p align="center">
+  <img src="IBM Machine Learning Engineering Specialization ZRFNNCFZJ7G8.jpg" alt="Machine Learning Logo" width="825">
+</p>
